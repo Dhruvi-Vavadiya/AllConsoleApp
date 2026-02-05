@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppEventDelegte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AC52EC-115F-4325-8E6F-C39714115027}|ConsoleAppEventDelegte.csproj|d:\\msc_ict\\sem2\\c#\\console\\consoleappeventdelegte\\ddmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AC52EC-115F-4325-8E6F-C39714115027}|ConsoleAppEventDelegte.csproj|solutionrelative:ddmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AC52EC-115F-4325-8E6F-C39714115027}|ConsoleAppEventDelegte.csproj|d:\\msc_ict\\sem2\\c#\\console\\consoleappeventdelegte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AC52EC-115F-4325-8E6F-C39714115027}|ConsoleAppEventDelegte.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0AC52EC-115F-4325-8E6F-C39714115027}|ConsoleAppEventDelegte.csproj|d:\\msc_ict\\sem2\\c#\\console\\consoleappeventdelegte\\dddeclare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0AC52EC-115F-4325-8E6F-C39714115027}|ConsoleAppEventDelegte.csproj|solutionrelative:dddeclare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0488CC-F52D-4628-B8F5-67D34B3E0A5A}|..\\ConsoleAppMultiCastDelegate\\ConsoleAppMultiCastDelegate.csproj|d:\\msc_ict\\sem2\\c#\\console\\consoleappmulticastdelegate\\callbackmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0488CC-F52D-4628-B8F5-67D34B3E0A5A}|..\\ConsoleAppMultiCastDelegate\\ConsoleAppMultiCastDelegate.csproj|d:\\msc_ict\\sem2\\c#\\console\\consoleappmulticastdelegate\\callbackfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0488CC-F52D-4628-B8F5-67D34B3E0A5A}|..\\ConsoleAppMultiCastDelegate\\ConsoleAppMultiCastDelegate.csproj|d:\\msc_ict\\sem2\\c#\\console\\consoleappmulticastdelegate\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1262,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppEventDelegte\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppEventDelegte\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:54:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DdMethods.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppEventDelegte\\DdMethods.cs",
+              "RelativeDocumentMoniker": "DdMethods.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppEventDelegte\\DdMethods.cs",
+              "RelativeToolTip": "DdMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:53:09.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ddDeclare.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppEventDelegte\\ddDeclare.cs",
+              "RelativeDocumentMoniker": "ddDeclare.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppEventDelegte\\ddDeclare.cs",
+              "RelativeToolTip": "ddDeclare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:51:17.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CallbackFunc.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppMultiCastDelegate\\CallbackFunc.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleAppMultiCastDelegate\\CallbackFunc.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppMultiCastDelegate\\CallbackFunc.cs",
+              "RelativeToolTip": "..\\ConsoleAppMultiCastDelegate\\CallbackFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:37:54.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallBackMethod.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppMultiCastDelegate\\CallBackMethod.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleAppMultiCastDelegate\\CallBackMethod.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppMultiCastDelegate\\CallBackMethod.cs",
+              "RelativeToolTip": "..\\ConsoleAppMultiCastDelegate\\CallBackMethod.cs",
+              "ViewState": "AgIAAA8AAADAmZmZmZkdwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:05:01.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateDemo.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppMultiCastDelegate\\DelegateDemo.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleAppMultiCastDelegate\\DelegateDemo.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\Console\\ConsoleAppMultiCastDelegate\\DelegateDemo.cs",
+              "RelativeToolTip": "..\\ConsoleAppMultiCastDelegate\\DelegateDemo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:04:39.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
