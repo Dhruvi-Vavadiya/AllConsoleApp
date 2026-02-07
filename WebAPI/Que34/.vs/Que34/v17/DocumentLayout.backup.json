@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4AFCDA-4755-4F9F-9D51-CB5FB056B36F}|WebAppMobileAPI\\WebAppMobileAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobileapi\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4AFCDA-4755-4F9F-9D51-CB5FB056B36F}|WebAppMobileAPI\\WebAppMobileAPI.csproj|solutionrelative:webappmobileapi\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4AFCDA-4755-4F9F-9D51-CB5FB056B36F}|WebAppMobileAPI\\WebAppMobileAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4AFCDA-4755-4F9F-9D51-CB5FB056B36F}|WebAppMobileAPI\\WebAppMobileAPI.csproj|solutionrelative:webappmobileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4AFCDA-4755-4F9F-9D51-CB5FB056B36F}|WebAppMobileAPI\\WebAppMobileAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobileapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F4AFCDA-4755-4F9F-9D51-CB5FB056B36F}|WebAppMobileAPI\\WebAppMobileAPI.csproj|solutionrelative:webappmobileapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobilemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|solutionrelative:webappmobilemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4AFCDA-4755-4F9F-9D51-CB5FB056B36F}|WebAppMobileAPI\\WebAppMobileAPI.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobileapi\\webappmobileapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4F4AFCDA-4755-4F9F-9D51-CB5FB056B36F}|WebAppMobileAPI\\WebAppMobileAPI.csproj|solutionrelative:webappmobileapi\\webappmobileapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobilemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|solutionrelative:webappmobilemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobilemvc\\controllers\\mobilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|solutionrelative:webappmobilemvc\\controllers\\mobilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobilemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|solutionrelative:webappmobilemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobilemvc\\models\\elasticsearchhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|solutionrelative:webappmobilemvc\\models\\elasticsearchhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|d:\\msc_ict\\sem2\\c#\\webapi\\que34\\webappmobilemvc\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC662110-F3F7-438D-B714-4CDF9C13E579}|WebAppMobileMVC\\WebAppMobileMVC.csproj|solutionrelative:webappmobilemvc\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebAppMobileAPI.http",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileAPI\\WebAppMobileAPI.http",
+              "RelativeDocumentMoniker": "WebAppMobileAPI\\WebAppMobileAPI.http",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileAPI\\WebAppMobileAPI.http",
+              "RelativeToolTip": "WebAppMobileAPI\\WebAppMobileAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-29T11:58:53.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMobileMVC\\Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Program.cs",
+              "RelativeToolTip": "WebAppMobileMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:58:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppMobileMVC\\appsettings.json",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\appsettings.json",
+              "RelativeToolTip": "WebAppMobileMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T11:58:17.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jwtservice.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileAPI\\service\\jwtservice.cs",
+              "RelativeDocumentMoniker": "WebAppMobileAPI\\service\\jwtservice.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileAPI\\service\\jwtservice.cs",
+              "RelativeToolTip": "WebAppMobileAPI\\service\\jwtservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:03:49.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppMobileAPI\\appsettings.json",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileAPI\\appsettings.json",
+              "RelativeToolTip": "WebAppMobileAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T14:03:03.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMobileAPI\\Program.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileAPI\\Program.cs",
+              "RelativeToolTip": "WebAppMobileAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAMjMzMzMLwCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:00:49.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppMobileMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppMobileMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:00:10.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElasticSearchHelper.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Models\\ElasticSearchHelper.cs",
+              "RelativeDocumentMoniker": "WebAppMobileMVC\\Models\\ElasticSearchHelper.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Models\\ElasticSearchHelper.cs",
+              "RelativeToolTip": "WebAppMobileMVC\\Models\\ElasticSearchHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T13:59:59.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MobilesController.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Controllers\\MobilesController.cs",
+              "RelativeDocumentMoniker": "WebAppMobileMVC\\Controllers\\MobilesController.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Controllers\\MobilesController.cs",
+              "RelativeToolTip": "WebAppMobileMVC\\Controllers\\MobilesController.cs",
+              "ViewState": "AgIAAAAAAABAMzMzMzMVwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:20:31.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorLog.cs",
+              "DocumentMoniker": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Models\\ErrorLog.cs",
+              "RelativeDocumentMoniker": "WebAppMobileMVC\\Models\\ErrorLog.cs",
+              "ToolTip": "D:\\Msc_ICT\\Sem2\\C#\\WebAPI\\Que34\\WebAppMobileMVC\\Models\\ErrorLog.cs",
+              "RelativeToolTip": "WebAppMobileMVC\\Models\\ErrorLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:38:51.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
