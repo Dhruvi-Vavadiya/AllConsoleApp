@@ -1,0 +1,7 @@
+D:\Msc_ICT\Sem2\C#\Console\AllConsole\ExamQuestion\ExamQuestion\bin\Debug\ExamQuestion.exe.config
+D:\Msc_ICT\Sem2\C#\Console\AllConsole\ExamQuestion\ExamQuestion\bin\Debug\ExamQuestion.exe
+D:\Msc_ICT\Sem2\C#\Console\AllConsole\ExamQuestion\ExamQuestion\bin\Debug\ExamQuestion.pdb
+D:\Msc_ICT\Sem2\C#\Console\AllConsole\ExamQuestion\ExamQuestion\obj\Debug\ExamQuestion.csproj.AssemblyReference.cache
+D:\Msc_ICT\Sem2\C#\Console\AllConsole\ExamQuestion\ExamQuestion\obj\Debug\ExamQuestion.csproj.CoreCompileInputs.cache
+D:\Msc_ICT\Sem2\C#\Console\AllConsole\ExamQuestion\ExamQuestion\obj\Debug\ExamQuestion.exe
+D:\Msc_ICT\Sem2\C#\Console\AllConsole\ExamQuestion\ExamQuestion\obj\Debug\ExamQuestion.pdb
